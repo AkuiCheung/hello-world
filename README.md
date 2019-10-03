@@ -1,3 +1,3 @@
 # hello-world
 for study
-我也像想改Hello-world，贡献一点智慧。
+我也想修改Hello-world，贡献一点智慧。
